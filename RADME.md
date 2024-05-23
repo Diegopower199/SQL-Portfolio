@@ -1,0 +1,1 @@
+Este repositorio contiene un conjunto de proyectos desarrollados en SQL que reflejan mis habilidades y experiencia en programación.
