@@ -1,0 +1,1 @@
+Las practicas se han realizado con la siguiente base de datos 'mysqlsampledatabase.sql'
